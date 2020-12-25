@@ -1,17 +1,17 @@
 class Dog
-	def name 
+	def name=
 	  
 	end 
 	
-	def name= 
+	def name 
 	  
 	end  
 	
-	def breed 
+	def breed= 
 	  
 	end 
 	
-	def breed= 
+	def breed 
 	  
 	end 
 end 	
